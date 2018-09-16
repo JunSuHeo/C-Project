@@ -1,0 +1,461 @@
+﻿  Event.c
+  EventE87.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\evente87.c(71): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\evente87.c(80): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\evente87.c(81): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\evente87.c(104): warning C4013: 'PrintE87'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  EventItem.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(16): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(28): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(45): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(51): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(52): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(58): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(72): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(79): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(85): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(97): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(103): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(104): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(110): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(122): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(128): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(129): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(135): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(147): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(153): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(154): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventitem.c(160): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  EventJeonsan.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventjeonsan.c(85): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventjeonsan.c(95): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventjeonsan.c(96): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventjeonsan.c(107): warning C4013: 'PrintJeonsan'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  EventHakyeon.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhakyeon.c(72): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhakyeon.c(79): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhakyeon.c(81): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhakyeon.c(109): warning C4013: 'PrintHakyeon'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  EventHome.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(62): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(66): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(77): warning C4013: 'PrintSleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(87): warning C4013: 'PrintRoom_Sun'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(101): warning C4013: 'PrintRoom_Moon'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventhome.c(330): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  EventSchool.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(69): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(71): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(104): warning C4013: 'PrintRoom_Sun'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(106): warning C4013: 'PrintRoom_Moon'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(122): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(150): warning C4013: 'PrintJeonsan'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(210): warning C4013: 'PrintS14'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(267): warning C4013: 'PrintE87'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\eventschool.c(326): warning C4013: 'PrintHakyeon'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  login.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.h(21): warning C4005: 'FALSE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(71): note: 'FALSE'의 이전 정의를 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(178): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(190): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(198): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(15): warning C4101: 'fp1' :참조되지 않은 지역 변수입니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(230): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(233): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(241): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(295): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(305): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(315): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(325): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(335): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(362): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(371): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(402): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(408): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(464): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(473): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(482): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(491): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(499): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(523): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(532): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(563): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(566): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(572): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(574): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(578): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(586): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.c(554): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  main.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\login.h(21): warning C4005: 'FALSE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(71): note: 'FALSE'의 이전 정의를 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(55): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(71): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(95): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 14의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 15의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 16의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 17의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 18의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 19의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 20의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 21의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 22의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 23의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 24의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(102): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 14의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 15의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 16의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 17의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 18의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 19의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 20의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 21의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 22의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 23의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 24의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 14의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 15의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 16의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 17의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 18의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 19의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 20의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 21의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 22의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 23의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 24의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(126): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 14의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 15의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 16의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 17의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 18의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 19의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 20의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 21의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 22의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 23의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 24의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(137): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 14의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 15의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 16의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 17의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 18의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 19의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 20의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 21의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 22의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 23의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 24의 형식이 'short *'입니다.
+  c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): note: 서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\main.c(148): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  playgame.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\playgame.c(68): warning C4047: '=': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\playgame.c(76): warning C4047: '=': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\playgame.c(80): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\playgame.c(27): warning C4101: 'subkey' :참조되지 않은 지역 변수입니다.
+  print.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(398): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(408): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(412): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(418): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(420): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(427): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(434): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(436): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(443): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(470): warning C4101: 'PASSWORD' :참조되지 않은 지역 변수입니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\print.c(469): warning C4101: 'ID' :참조되지 않은 지역 변수입니다.
+  EventS14.c
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\events14.c(83): warning C4013: 'PrintSchool'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\events14.c(90): warning C4013: 'img'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\events14.c(92): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\events14.c(115): warning C4013: 'PrintS14'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Util.c
+  코드를 생성하고 있습니다...
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\event.c(775): warning C4715: 'CheckEventLeft': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\event.c(521): warning C4715: 'CheckEventDown': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\event.c(1029): warning C4715: 'CheckEventRight': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\wmfkf\desktop\학교\2-1\기프\project\junsu\junsu\event.c(267): warning C4715: 'CheckEventUp': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  JunSu.vcxproj -> C:\Users\wmfkf\Desktop\학교\2-1\기프\project\JunSu\Debug\JunSu.exe
